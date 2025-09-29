@@ -1,0 +1,22 @@
+# Binaries
+rangastalam
+rangastalam.exe
+
+# Output files
+*.mp4
+*.avi
+*.mov
+output.*
+
+# Test files
+debug_*.go
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
